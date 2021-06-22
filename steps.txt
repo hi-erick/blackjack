@@ -1,0 +1,4 @@
+steps)
+
+give two cards to dealer one isn't shown
+give to cards to player, both are shown
